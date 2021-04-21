@@ -1,2 +1,2 @@
 # coding-news
-News for coders.
+News for coders made by coders.
